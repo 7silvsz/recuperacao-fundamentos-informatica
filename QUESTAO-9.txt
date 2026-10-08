@@ -1,0 +1,8 @@
+Questão 9 – Pesquisa de repositório público
+
+Para concluir esta questão no GitHub, escolha um repositório público relacionado a informática, tecnologia ou educação e registre:
+- Nome do repositório
+- Proprietário/organização
+- Arquivos/pastas observados
+- Se possui README
+- Endereço do repositório

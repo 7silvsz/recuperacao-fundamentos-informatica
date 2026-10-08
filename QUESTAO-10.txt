@@ -1,0 +1,3 @@
+Questão 10 – Download ZIP
+
+No GitHub, abra um repositório público, clique em Code → Download ZIP e guarde o arquivo baixado.
