@@ -1,0 +1,14 @@
+PROJETO DE INFORMÁTICA
+Aluno: Gabriel Silva Carvalho
+
+Arquivos principais:
+- README.md
+- relatorio_final.txt
+- anotacoes.txt
+
+Branch:
+- atividade-recuperacao
+  - teste_branch.txt (com alteração e histórico)
+
+Observação:
+A descrição do repositório e a Issue são configurações que precisam ser feitas na conta do GitHub; elas não são armazenadas como arquivos comuns do repositório.
